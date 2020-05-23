@@ -1,0 +1,2 @@
+# GITIDEATest
+测试IDEA连接GIT
